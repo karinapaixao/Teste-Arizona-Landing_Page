@@ -1,0 +1,270 @@
+nav{
+    background-color: #41c07d ;
+    margin-bottom: 0px 0px;
+}
+
+.newMenu{
+width: 100%;
+}
+
+.default{
+    display: inline;
+    width: 80%;
+    float: left
+}
+
+.default a{
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: white;
+    margin:0px 10px;
+}
+
+.default a:hover{
+    color: rgb(192, 192, 192);
+}
+
+.defaultIcon{
+    display: inline;
+    width: 20%;
+    float: right;   
+}
+
+.defaultIcon a{
+    text-decoration: none;
+}
+
+
+.banner{
+    width: 100%;
+    margin-top: 0%;
+    background-image: url(../img/banner.png);
+    height: 563px;
+    background-size: cover;
+}
+
+.textBanner{
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 170px;
+    margin-left: 15.7rem;
+}
+
+.takePhotos{
+    color:rgb(100, 96, 96);
+    font-weight:600;  
+}
+
+#textH6{
+    color:rgb(133, 133, 133);
+    font-weight: 600;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+
+.buttonSystems{
+    border-radius: 2px;
+    font-weight: 600;
+    padding: 5px 32px;
+    background: transparent;
+    align-items: center;
+    justify-content: center;
+    color: rgb(100, 96, 96);
+    border: rgb(100, 96, 96) solid;
+}
+
+.redes{
+    background-color: #f3f3f3;
+}
+
+.names{
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.names:hover{
+    background-color:#eeeeee;
+    transition: 1s;
+}
+
+.moldura{
+    margin-top: 10px;
+    align-items: center;
+    
+}
+
+.google{
+    background-image: url(../img/icons/google.png);
+    width:146px;
+    height: 48px;
+}
+ .google:hover{
+    background-image: url(../img/icons/googlecolor.png) ;
+    transition: 1.5s;
+} 
+
+.facebook{
+    background-image: url(../img/icons/facebook2.png);
+    width:146px;
+    height: 48px;
+}
+ .facebook:hover{
+    background-image: url(../img/icons/facebookcolor2.png) ;
+    transition: 1.5s;
+} 
+
+.yahoo{
+    background-image: url(../img/icons/yahoo.png);
+    width:146px;
+    height: 48px;
+}
+ .yahoo:hover{
+    background-image: url(../img/icons/yahoocolor.png) ;
+    transition: 1.5s;
+} 
+
+.paypal{
+    background-image: url(../img/icons/paypal.png);
+    width:146px;
+    height: 48px;
+}
+ .paypal:hover{
+    background-image: url(../img/icons/paypalcolor.png) ;
+    transition: 1.5s;
+} 
+
+.imgCel{
+    margin-left: 150px;
+}
+
+.allText{
+    margin-left: 170px;
+}
+
+.textPhone{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.tituloCapiture{
+    color:rgb(100, 96, 96);
+    font-weight: 800;
+}
+
+.textH6{
+    color:rgb(133, 133, 133);
+    font-weight: 600;
+    line-height: 33px;
+}
+
+.inputEmail{
+    background-color: #41c07d ;
+    justify-content: center;
+    padding: 50px 0px;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.textH{
+    margin: auto;
+}
+
+.inputEmail h5{
+    color:#eeeeee;
+    font-weight: 300;
+}
+
+.inputEmail ::placeholder{
+    color: #41c07d;
+    text-align:left;
+}
+
+.inputEmail input{
+    margin: auto;
+}
+
+.inputEmail2{
+    padding: 10px 120px 10px 15px;
+    border-radius: 3px;
+    border-style: none;
+}
+
+.inputEmail input{
+    background-image: url(../img/icons/email.png);
+    background-position: 94%;
+   background-repeat: no-repeat;
+}
+
+.lista{
+    line-height: 33px;
+}
+
+#localiza{
+    margin-right: 30px;
+}
+
+.getApp{
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+.buttonVideo:hover{
+    background-color: rgb(192, 192, 192);
+    transition: 1s;
+}
+
+
+.produto {
+    background-color: #41c07d;
+    
+}
+
+.card{
+    background-color: #41c07d;
+    align-items: center;
+    text-align: center;
+    border: none;
+    
+    
+}
+
+.icone{
+    font-size: 35px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.tituloCard{
+    color: #eeeeee;
+    font-weight:600;
+}
+
+.card-text{
+    color: #eeeeee;
+}
+
+.defaultCard{
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.textInteger{
+    color:rgb(133, 133, 133);
+    font-weight: 600;
+    line-height: 33px;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 40px;
+}
+
+.john{
+    margin-top: 40px;
+}
+.app{
+    color:rgb(133, 133, 133);
+    font-weight: 600;
+    margin-bottom: 80px;
+}
